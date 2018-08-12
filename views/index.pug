@@ -1,0 +1,24 @@
+doctype html
+html(lang='ko')
+    head
+        title Pug tutorial
+        style.
+            .title {
+                color: blue;
+            }
+        script.
+            console.log('This is log');
+    body
+        #header
+            h1.title Header
+        #main
+            div Main
+            ul
+                - var items = [1, 2, 3, 4, 5]
+                each item in items
+                    li= item
+            pre
+                | This is
+                | multiline
+        #footer
+            p Footer
