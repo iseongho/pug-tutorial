@@ -1,11 +1,6 @@
 # Pug tutorial
 
-[이성호의 블로그 Pug 강의 글](https://iseongho.github.io/node-template-engine-pug/)에서 사용된 간단한 프로젝트입니다.
-
-## Page path list
-
-- /
-- /blog
+[이성호의 블로그 Pug 강의 글](https://iseongho.github.io/posts/node-template-engine-pug/)에서 사용된 간단한 프로젝트입니다.
 
 ## Usage
 
@@ -22,3 +17,8 @@ node app.js
 ```
 
 <http://localhost:3000>에 접속합니다.
+
+## Page path list
+
+- /
+- /blog
