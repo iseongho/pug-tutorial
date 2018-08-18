@@ -1,6 +1,6 @@
 # Pug tutorial
 
-[이성호의 블로그 Pug 강의 글](https://iseongho.github.io/2018/08/05/node-template-engine-pug/)에서 사용된 간단한 프로젝트입니다.
+[이성호의 블로그 Pug 강의 글](https://iseongho.github.io/node-template-engine-pug/)에서 사용된 간단한 프로젝트입니다.
 
 ## Page path list
 
