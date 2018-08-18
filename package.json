@@ -1,0 +1,28 @@
+{
+  "name": "pug-tutorial",
+  "version": "1.0.0",
+  "description": "Node template engine pug sample project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iseongho/pug-tutorial.git"
+  },
+  "keywords": [
+    "pug",
+    "tutorial"
+  ],
+  "author": "iseongho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iseongho/pug-tutorial/issues"
+  },
+  "homepage": "https://github.com/iseongho/pug-tutorial#readme"
+}

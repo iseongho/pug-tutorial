@@ -11,5 +11,5 @@ app.get('/blog', function (req, res) {
 });
 
 app.listen(3000, function () {  
-    console.log('Pug tutorial app listening on port 3000!')
+    console.log('Pug tutorial app is running at http://localhost:3000/')
 });
